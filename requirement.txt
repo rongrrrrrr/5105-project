@@ -1,4 +1,4 @@
 # requirements.txt
-openai
+openai==0.28.1
 pdfplumber
 pandas

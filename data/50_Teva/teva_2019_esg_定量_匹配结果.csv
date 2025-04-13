@@ -1,0 +1,19 @@
+keyword,value,unit,year,page,matched_metric
+Revenue,16890000000,USD,2019.0,4,"Total volume of hazardous or toxic substances emitted (solid, liquid, gas)"
+Market capitalization,10860000000,USD,2019.0,4,"Total volume of hazardous or toxic substances emitted (solid, liquid, gas)"
+Stakeholder Engagement,101,%,2019.0,40,Total water consumption
+Materiality Assessment,102,%,2019.0,40,Total water consumption
+Employee turnover,,,2019.0,47,Total water consumption
+Recycling,56102,Tons,2019.0,59,Water consumption intensity
+Bio treatment,44435,Tons,2019.0,59,"Total volume of hazardous or toxic substances emitted (solid, liquid, gas)"
+Incineration,36222,Tons,2019.0,59,"Total volume of hazardous or toxic substances emitted (solid, liquid, gas)"
+Landfill,11946,Tons,2019.0,59,"Absolute emissions by scope (Scope 1, Scope 2, Scope 3 if applicable)"
+Other,0,Tons,2019.0,59,Total water consumption
+Total waste,148705,Tons,2019.0,59,"Total volume of hazardous or toxic substances emitted (solid, liquid, gas)"
+Percentage of waste recycled,38,%,2019.0,59,"Total volume of hazardous or toxic substances emitted (solid, liquid, gas)"
+Percentage of waste landfilled,8,%,2019.0,59,"Total volume of hazardous or toxic substances emitted (solid, liquid, gas)"
+Total waste diverted from landfill,136758,Tons,2019.0,59,"Total volume of hazardous or toxic substances emitted (solid, liquid, gas)"
+Non-hazardous waste,54511,Tons,2019.0,59,"Total volume of hazardous or toxic substances emitted (solid, liquid, gas)"
+Hazardous waste,94194,Tons,2019.0,59,"Total volume of hazardous or toxic substances emitted (solid, liquid, gas)"
+Hazardous waste as a percentage of total waste,63,%,2019.0,59,"Total volume of hazardous or toxic substances emitted (solid, liquid, gas)"
+Waste intensity,3.78,Tons/employee,2019.0,59,Emission intensities by scope

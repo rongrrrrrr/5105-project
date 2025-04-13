@@ -1,0 +1,6 @@
+keyword,total_frequency,matched_synonyms,matched_metric,similarity
+water stress,4,water stress (3); water scarcity (1),Water consumption intensity,90.0
+risk mitigation,5,risk mitigation (3); risk management (2),"Total volume of hazardous or toxic substances emitted (solid, liquid, gas)",52.5
+quality assurance,2,quality assurance (1); quality control (1),"Absolute emissions by scope (Scope 1, Scope 2, Scope 3 if applicable)",54.0
+risk assessment,2,risk assessment (1); hazard assessment (1),"Total volume of hazardous or toxic substances emitted (solid, liquid, gas)",60.00000000000001
+third-party verification,1,external validation (1),"Total volume of hazardous or toxic substances emitted (solid, liquid, gas)",53.99999999999999

@@ -1,0 +1,10 @@
+keyword,total_frequency,matched_synonyms,matched_metric,similarity
+carbon intensity,4,carbon footprint (1); greenhouse gas emissions (3),"Absolute emissions by scope (Scope 1, Scope 2, Scope 3 if applicable)",90.0
+reduction targets,1,reduction goals (1),Emission intensities by scope,66.66666666666667
+water stress,16,water stress (11); water scarcity (3); water risk (2),Water consumption intensity,90.0
+sustainable sourcing,1,sustainable procurement (1),Water consumption intensity,68.08510638297872
+risk mitigation,17,risk mitigation (2); risk reduction (1); risk management (14),Emission intensities by scope,85.5
+quality assurance,3,quality assurance (2); quality control (1),"Absolute emissions by scope (Scope 1, Scope 2, Scope 3 if applicable)",54.0
+regulatory compliance,3,regulatory compliance (2); compliance with laws (1),"Total volume of hazardous or toxic substances emitted (solid, liquid, gas)",85.5
+risk assessment,18,risk assessment (15); risk analysis (2); hazard assessment (1),"Total volume of hazardous or toxic substances emitted (solid, liquid, gas)",60.00000000000001
+third-party verification,1,external verification (1),"Total volume of hazardous or toxic substances emitted (solid, liquid, gas)",63.0

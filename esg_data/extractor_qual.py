@@ -1,5 +1,3 @@
-# qual_extractor.py（用于定性数据提取与关键词近义词频次统计）
-
 import pdfplumber
 import pandas as pd
 import re
@@ -9,10 +7,14 @@ import time
 import json
 import os
 
-openai.api_key = os.getenv("OPENAI_API_KEY")
+# ========== 配置 ==========
+pdf_path = "../input/your_pdf.pdf"  # ← 记得设置你的 PDF 路径
+excel_path = "../ESG评价体系0322.xlsx"
+output_path = "词频统计_含近义词.csv"
+openai.api_key = "YOUR_API_KEY"  # ← 记得设置你的 OpenAI API 密钥
 model = "gpt-4"
 
-# ========= 1. 加载定性关键词 ==========
+# ========== 1. 加载定性关键词 ==========
 def load_keywords_with_synonyms(excel_path):
     xls = pd.ExcelFile(excel_path)
     records = []
@@ -30,7 +32,7 @@ def load_keywords_with_synonyms(excel_path):
                         records.append({"keyword": kw.strip(), "type": row[col], "domain": sheet})
     return pd.DataFrame(records)
 
-# ========= 2. 提取全文文本 ==========
+# ========== 2. 提取全文文本 ==========
 def extract_pdf_text(pdf_path):
     all_text = []
     with pdfplumber.open(pdf_path) as pdf:
@@ -40,7 +42,7 @@ def extract_pdf_text(pdf_path):
                 all_text.append(text)
     return "\n".join(all_text)
 
-# ========= 3. 生成近义词扩展 ==========
+# ========== 3. 生成近义词扩展 ==========
 def get_synonyms_batch(keywords):
     prompt = f"""
 Please provide 3 to 5 common synonyms or semantically similar expressions for each of the following ESG-related keywords. 
@@ -61,14 +63,14 @@ Keywords:
             max_tokens=1500
         )
         content = response.choices[0].message["content"]
-        print("GPT 返回内容：", content)
+        print("GPT 返回内容：", content)  # ✅ 添加这一行查看返回结果
         return content
     except Exception as e:
         print("❌ GPT 错误：", e)
         return "[]"
 
-# ========= 4. 主流程 ==========
-def run(pdf_path, excel_path):
+# ========== 4. 主流程 ==========
+def run():
     print("📘 读取关键词...")
     df_keywords = load_keywords_with_synonyms(excel_path)
     keywords = df_keywords['keyword'].unique().tolist()
@@ -117,13 +119,11 @@ def run(pdf_path, excel_path):
         print("⚠️ 文件名中未找到年份")
 
     basename = os.path.splitext(os.path.basename(pdf_path))[0]
-    output_dir = "output"
-    os.makedirs(output_dir, exist_ok=True)
-    output_filename = os.path.join(output_dir, f"{basename}_定性_结果.csv")
+    output_filename = f"{basename}_定性_结果.csv"
 
     df_out.to_csv(output_filename, index=False)
     print(f"\n✅ 提取完成，结果已保存至 {output_filename}")
 
-# ========= 执行示例 ==========
+# ========== 执行 ==========
 if __name__ == '__main__':
-    run("test_files/Bayer_2020_esg.pdf", "ESG评价体系0322.xlsx")
+    run()

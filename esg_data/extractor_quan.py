@@ -1,16 +1,15 @@
-# esg_data/extractor.py
-
 import pdfplumber
-import openai
-import os
 import pandas as pd
+import time
 import json
 import re
-import time
+import os
+import openai
 
-openai.api_key = os.getenv("OPENAI_API_KEY")
-
-model = "gpt-4"
+# ========= 1. 设置 =========
+pdf_path = "../input/your_pdf.pdf"  # PDF 文件路径
+openai.api_key = os.getenv("OPENAI_API_KEY")  # 替换为你的 OpenAI API 密钥
+model = "gpt-3.5-turbo"  # GPT 模型
 
 # ========= 2. 提取表格文本块 =========
 def extract_table_blocks(pdf_path, max_pages=200):
@@ -70,7 +69,7 @@ def ask_gpt(prompt):
         return []
 
 # ========= 5. 主流程 =========
-def run(pdf_path):
+def run():
     print("📄 正在从 PDF 中提取表格文本...")
     table_blocks = extract_table_blocks(pdf_path)
     print(f"✅ 共提取表格段落：{len(table_blocks)} 段")
@@ -84,7 +83,7 @@ def run(pdf_path):
             if isinstance(r, dict):
                 r['page'] = block['page']
         all_records.extend(records)
-        time.sleep(1)
+        time.sleep(1)  # 防止请求过快
 
     df = pd.DataFrame(all_records)
 
@@ -99,11 +98,13 @@ def run(pdf_path):
 
     # 提取不带扩展名的文件名部分
     basename = os.path.splitext(os.path.basename(pdf_path))[0]
-    output_dir = "output"
-    os.makedirs(output_dir, exist_ok=True)
-    output_filename = os.path.join(output_dir, f"{basename}_定量_结果.csv")
+    output_filename = f"{basename}_定量_结果.csv"
 
     df.to_csv(output_filename, index=False)
     print(f"\n✅ 提取完成，结果已保存至 {output_filename}")
+
+# ========= 执行 =========
+if __name__ == '__main__':
+    run()
 
 

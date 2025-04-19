@@ -1,7 +1,0 @@
-keyword,total_frequency,matched_synonyms,matched_metric,similarity
-carbon intensity,5,carbon footprint (5),"Absolute emissions by scope (Scope 1, Scope 2, Scope 3 if applicable)",95.0
-reduction targets,2,reduction targets (2),Emission intensities by scope,95.0
-water stress,3,water stress (3),Water consumption intensity,95.0
-risk mitigation,9,risk mitigation (1); risk management (8),"Total volume of hazardous or toxic substances emitted (solid, liquid, gas)",52.5
-quality assurance,5,quality assurance (1); quality control (4),"Absolute emissions by scope (Scope 1, Scope 2, Scope 3 if applicable)",54.0
-third-party verification,1,external validation (1),"Total volume of hazardous or toxic substances emitted (solid, liquid, gas)",53.99999999999999

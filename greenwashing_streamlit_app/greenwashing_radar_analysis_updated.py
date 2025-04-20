@@ -15,7 +15,7 @@ import hashlib
 import google.generativeai as genai
 
 # ======= Gemini API 配置 =======
-os.environ["GOOGLE_API_KEY"] = "AIzaSyByxmpPwL7-MThEWMt9x2m-JK4w6bomnks"
+os.environ["GOOGLE_API_KEY"] = "your key"
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 gemini_model = genai.GenerativeModel("gemini-pro")
 

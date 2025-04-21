@@ -1,0 +1,9 @@
+openai:
+  api_key: "your-openai-api-key"
+  base_url: "https://models.inference.ai.azure.com"
+  model: "gpt-4o"
+
+google:
+  api_keys:
+    - "AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg"
+  model: "gemini-2.0-flash"

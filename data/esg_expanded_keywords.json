@@ -1,0 +1,156 @@
+{
+    "B-ENV_GHG": [
+        "GHG emissions",
+        "emissions",
+        "total emissions",
+        "carbon emissions",
+        "emission level",
+        "CO2 output",
+        "greenhouse gas emissions",
+        "碳排放",
+        "排放量"
+    ],
+    "B-ENV_ENC": [
+        "electricity consumption",
+        "energy consumption",
+        "energy usage",
+        "energy used",
+        "energy utilization",
+        "power usage",
+        "total energy use",
+        "用电量",
+        "能源消耗"
+    ],
+    "B-ENV_WAC": [
+        "volume of water used",
+        "total water usage",
+        "water footprint",
+        "water use",
+        "water consumption",
+        "water utilization",
+        "water withdrawal",
+        "用水量",
+        "耗水"
+    ],
+    "B-ENV_WAG_TWG": [
+        "waste output",
+        "solid waste",
+        "waste volume",
+        "amount of waste",
+        "waste produced",
+        "total waste",
+        "waste generated",
+        "废弃物",
+        "垃圾产生"
+    ],
+    "B-SOC_GED_CEG": [
+        "team members",
+        "workforce",
+        "number of employees",
+        "employees",
+        "employee count",
+        "personnel",
+        "staff",
+        "员工",
+        "职工"
+    ],
+    "B-SOC_GED_NHG": [
+        "new hires",
+        "hiring count",
+        "new employees",
+        "new staff",
+        "new joiners",
+        "recently hired",
+        "fresh recruits",
+        "新员工",
+        "新入职"
+    ],
+    "B-SOC_DEV_ATH": [
+        "training provided",
+        "training duration",
+        "staff training",
+        "average training hours",
+        "employee training",
+        "training hours",
+        "training time",
+        "培训时间",
+        "培训时长"
+    ],
+    "B-SOC_OHS_FAT": [
+        "number of fatalities",
+        "death toll",
+        "workplace deaths",
+        "death cases",
+        "fatalities",
+        "employee deaths",
+        "fatal incidents",
+        "死亡",
+        "致命事故"
+    ],
+    "B-SOC_OHS_HCI": [
+        "serious injuries",
+        "employee injuries",
+        "workplace injuries",
+        "recordable injuries",
+        "injuries",
+        "high-consequence injuries",
+        "injury incidents",
+        "重大伤害",
+        "工伤"
+    ],
+    "B-GOV_BOC_WOB": [
+        "female board members",
+        "female directors",
+        "board of directors",
+        "board members",
+        "gender on board",
+        "women on board",
+        "board diversity",
+        "董事会",
+        "女性董事"
+    ],
+    "B-GOV_MAD_WMT": [
+        "diverse management",
+        "leadership team",
+        "female managers",
+        "women in management",
+        "female executives",
+        "executive team",
+        "management team",
+        "高管",
+        "管理层"
+    ],
+    "B-GOV_ETB_ACD": [
+        "integrity training",
+        "compliance training",
+        "corruption disclosures",
+        "business ethics",
+        "anti-bribery policy",
+        "corruption prevention",
+        "anti-corruption",
+        "反腐",
+        "廉洁"
+    ],
+    "B-GOV_CER_LRC": [
+        "external certifications",
+        "certified compliance",
+        "industry certifications",
+        "recognized certifications",
+        "professional certifications",
+        "certifications",
+        "relevant certifications",
+        "认证",
+        "资质"
+    ],
+    "B-GOV_ASS_ASR": [
+        "third-party verification",
+        "audit",
+        "assurance",
+        "sustainability assurance",
+        "verified report",
+        "ESG assurance",
+        "external assurance",
+        "第三方审核",
+        "保证"
+    ]
+}

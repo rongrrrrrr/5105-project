@@ -1,0 +1,606 @@
+2025-04-17 01:40:18,169 - INFO - [✅] 成功提取：alcon_2023_esg
+2025-04-17 01:40:18,170 - INFO - [📄] 文本输出至：D:\其他\data\esg_extract_text_txt\alcon_2023_esg_text.txt
+2025-04-17 01:40:18,170 - INFO - [📊] 表格输出至：D:\其他\data\esg_extract_table_json\alcon_2023_esg_tables.json
+2025-04-17 01:44:07,180 - INFO - [✅] 成功提取：10958580
+2025-04-17 01:44:07,180 - INFO - [📄] 文本输出至：D:\其他\data\esg_extract_text_txt\10958580_text.txt
+2025-04-17 01:44:07,180 - INFO - [📊] 表格输出至：D:\其他\data\esg_extract_table_json\10958580_tables.json
+2025-04-17 01:47:35,999 - INFO - [✅] 成功提取：beigene_2020_esg
+2025-04-17 01:47:35,999 - INFO - [📄] 文本输出至：D:\其他\data\esg_extract_text_txt\beigene_2020_esg_text.txt
+2025-04-17 01:47:35,999 - INFO - [📊] 表格输出至：D:\其他\data\esg_extract_table_json\beigene_2020_esg_tables.json
+2025-04-17 02:47:46,258 - INFO - [✅] 成功提取：West Ph-2023-ESG
+2025-04-17 02:47:46,258 - INFO - [📄] 文本输出至：D:\其他\Project5105\data\esg_extract_text_txt\West Ph-2023-ESG_text.txt
+2025-04-17 02:47:46,258 - INFO - [📊] 表格输出至：D:\其他\Project5105\data\esg_extract_table_json\West Ph-2023-ESG_tables.json
+2025-04-17 02:56:24,428 - INFO - [✅] 成功提取：Eli Lilly and Company_2023_esg
+2025-04-17 02:56:24,429 - INFO - [📄] 文本输出至：D:\其他\Project5105\data\esg_extract_text_txt\Eli Lilly and Company_2023_esg_text.txt
+2025-04-17 02:56:24,429 - INFO - [📊] 表格输出至：D:\其他\Project5105\data\esg_extract_table_json\Eli Lilly and Company_2023_esg_tables.json
+2025-04-17 02:59:23,192 - INFO - [✅] 成功提取：Eli Lilly and Company_2021_esg
+2025-04-17 02:59:23,192 - INFO - [📄] 文本输出至：D:\其他\Project5105\data\esg_extract_text_txt\Eli Lilly and Company_2021_esg_text.txt
+2025-04-17 02:59:23,192 - INFO - [📊] 表格输出至：D:\其他\Project5105\data\esg_extract_table_json\Eli Lilly and Company_2021_esg_tables.json
+2025-04-17 03:14:44,860 - INFO - PDF 文件导入成功: D:\其他\Project5105\data\esg_reports_pdf\ferring_2022_esg.pdf
+2025-04-17 03:14:44,860 - INFO - 导入记录写入 Excel: D:\其他\Project5105\data\esg_reports_pdf\import records.xlsx
+2025-04-17 03:16:57,373 - INFO - [✅] 成功提取：ferring_2022_esg
+2025-04-17 03:16:57,373 - INFO - [📄] 文本输出至：D:\其他\Project5105\data\esg_extract_text_txt\ferring_2022_esg_text.txt
+2025-04-17 03:16:57,373 - INFO - [📊] 表格输出至：D:\其他\Project5105\data\esg_extract_table_json\ferring_2022_esg_tables.json
+2025-04-17 04:38:45,532 - INFO - PDF 文件导入成功: D:\其他\Project5105\data\esg_reports_pdf\beigene_2023_esg.pdf
+2025-04-17 04:38:45,532 - INFO - 导入记录写入 Excel: D:\其他\Project5105\data\esg_reports_pdf\import records.xlsx
+2025-04-17 04:38:52,554 - INFO - [✅] 成功提取：beigene_2023_esg
+2025-04-17 04:38:52,554 - INFO - [📊] 表格输出至：D:\其他\Project5105\data\esg_extract_table_json\beigene_2023_esg_tables.json
+2025-04-17 04:41:53,804 - INFO - PDF 文件导入成功: D:\其他\Project5105\data\esg_reports_pdf\novartis_2023_esg.pdf
+2025-04-17 04:41:53,804 - INFO - 导入记录写入 Excel: D:\其他\Project5105\data\esg_reports_pdf\import records.xlsx
+2025-04-17 04:42:00,335 - INFO - [✅] 成功提取：novartis_2023_esg
+2025-04-17 04:42:00,335 - INFO - [📊] 表格输出至：D:\其他\Project5105\data\esg_extract_table_json\novartis_2023_esg_tables.json
+2025-04-17 04:46:49,941 - INFO - PDF 文件导入成功: D:\其他\Project5105\data\esg_reports_pdf\lundbeck_2023_esg.pdf
+2025-04-17 04:46:49,942 - INFO - 导入记录写入 Excel: D:\其他\Project5105\data\esg_reports_pdf\import records.xlsx
+2025-04-17 04:46:58,581 - INFO - [✅] 成功提取：lundbeck_2023_esg
+2025-04-17 04:46:58,581 - INFO - [📊] 表格输出至：D:\其他\Project5105\data\esg_extract_table_json\lundbeck_2023_esg_tables.json
+2025-04-17 04:47:04,184 - INFO - [✅] 成功提取：lundbeck_2023_esg
+2025-04-17 04:47:04,185 - INFO - [📄] 文本输出至：D:\其他\Project5105\data\esg_extract_text_txt\lundbeck_2023_esg_text.txt
+2025-04-17 05:29:20,381 - INFO - PDF 文件导入成功: D:\其他\Project5105\data\esg_reports_pdf\alcon_2023_esg.pdf
+2025-04-17 05:29:20,382 - INFO - 导入记录写入 Excel: D:\其他\Project5105\data\esg_reports_pdf\import records.xlsx
+2025-04-17 05:29:26,589 - INFO - [✅] 成功提取：alcon_2023_esg
+2025-04-17 05:29:26,589 - INFO - [📊] 表格输出至：D:\其他\Project5105\data\esg_extract_table_json\alcon_2023_esg_tables.json
+2025-04-17 05:29:30,173 - INFO - [✅] 成功提取：alcon_2023_esg
+2025-04-17 05:29:30,173 - INFO - [📄] 文本输出至：D:\其他\Project5105\data\esg_extract_text_txt\alcon_2023_esg_text.txt
+2025-04-17 05:29:30,214 - INFO - [✅] 清洗完成：alcon_2023_esg_text.txt
+2025-04-17 05:29:30,214 - INFO - [📝] 输出路径：D:\其他\Project5105\data\esg_cleaned_text_txt\cleaned_alcon_2023_esg_text.txt
+2025-04-17 06:05:12,729 - INFO - PDF 文件导入成功: D:\其他\Project5105\data\esg_reports_pdf\Merck & Co., Inc._2019_esg.pdf
+2025-04-17 06:05:12,729 - INFO - 导入记录写入 Excel: D:\其他\Project5105\data\esg_reports_pdf\import records.xlsx
+2025-04-17 06:05:22,184 - INFO - [✅] 成功提取：Merck & Co., Inc._2019_esg
+2025-04-17 06:05:22,184 - INFO - [📄] 文本输出至：D:\其他\Project5105\data\esg_extract_text_txt\Merck & Co., Inc._2019_esg_text_blocks.json
+2025-04-17 06:16:01,898 - INFO - PDF 文件导入成功: D:\其他\Project5105\data\esg_reports_pdf\2022-ESG-Report.pdf
+2025-04-17 06:16:01,899 - INFO - 导入记录写入 Excel: D:\其他\Project5105\data\esg_reports_pdf\import records.xlsx
+2025-04-17 06:16:10,407 - INFO - [✅] 成功提取：2022-ESG-Report
+2025-04-17 06:16:10,407 - INFO - [📊] 表格输出至：D:\其他\Project5105\data\esg_extract_table_json\2022-ESG-Report_table_blocks.json
+2025-04-17 06:16:19,220 - INFO - [✅] 成功提取：2022-ESG-Report
+2025-04-17 06:16:19,220 - INFO - [📄] 文本输出至：D:\其他\Project5105\data\esg_extract_text_txt\2022-ESG-Report_text_blocks.json
+2025-04-17 06:31:36,018 - INFO - PDF 文件导入成功: D:\其他\Project5105\data\esg_reports_pdf\Merck & Co., Inc._2020_esg.pdf
+2025-04-17 06:31:36,018 - INFO - 导入记录写入 Excel: D:\其他\Project5105\data\esg_reports_pdf\import records.xlsx
+2025-04-17 06:31:59,383 - INFO - [✅] 成功提取：Merck & Co., Inc._2020_esg
+2025-04-17 06:31:59,383 - INFO - [📊] 表格输出至：D:\其他\Project5105\data\esg_extract_table_json\Merck & Co., Inc._2020_esg_table_blocks.json
+2025-04-17 06:32:21,579 - INFO - [✅] 成功提取：Merck & Co., Inc._2020_esg
+2025-04-17 06:32:21,579 - INFO - [📄] 文本输出至：D:\其他\Project5105\data\esg_extract_text_txt\Merck & Co., Inc._2020_esg_text_blocks.json
+2025-04-17 06:32:21,667 - INFO - [✅] 清洗完成：Merck & Co., Inc._2020_esg_text_blocks.json
+2025-04-17 06:32:21,667 - INFO - [📝] 输出路径：D:\其他\Project5105\data\esg_cleaned_text_json\cleaned_Merck & Co., Inc._2020_esg_text_blocks.json
+2025-04-17 07:20:46,918 - INFO - PDF 文件导入成功: D:\其他\Project5105\data\esg_reports_pdf\Merck & Co., Inc._2021_esg.pdf
+2025-04-17 07:20:46,918 - INFO - 导入记录写入 Excel: D:\其他\Project5105\data\esg_reports_pdf\import records.xlsx
+2025-04-17 07:21:09,097 - INFO - [✅] 成功提取：Merck & Co., Inc._2021_esg
+2025-04-17 07:21:09,097 - INFO - [📊] 表格输出至：D:\其他\Project5105\data\esg_extract_table_json\Merck & Co., Inc._2021_esg_table_blocks.json
+2025-04-17 07:21:47,358 - INFO - [✅] 成功提取：Merck & Co., Inc._2021_esg
+2025-04-17 07:21:47,358 - INFO - [📄] 文本输出至：D:\其他\Project5105\data\esg_extract_text_txt\Merck & Co., Inc._2021_esg_text_blocks.json
+2025-04-17 07:21:47,745 - INFO - [✅] JSON saved (no sentence output)
+2025-04-17 07:21:47,823 - INFO - [✅] 清洗完成：Merck & Co., Inc._2021_esg_text_blocks.json
+2025-04-17 07:21:47,823 - INFO - [📝] 输出路径：D:\其他\Project5105\data\esg_cleaned_text_json\cleaned_Merck & Co., Inc._2021_esg_text_blocks.json
+2025-04-17 07:34:18,509 - INFO - PDF 文件导入成功: D:\其他\Project5105\data\esg_reports_pdf\2022-ESG-Report(1).pdf
+2025-04-17 07:34:18,509 - INFO - 导入记录写入 Excel: D:\其他\Project5105\data\esg_reports_pdf\import records.xlsx
+2025-04-17 07:34:33,750 - INFO - [✅] 成功提取：2022-ESG-Report(1)
+2025-04-17 07:34:33,750 - INFO - [📊] 表格输出至：D:\其他\Project5105\data\esg_extract_table_json\2022-ESG-Report(1)_table_blocks.json
+2025-04-17 07:34:48,177 - INFO - [✅] 成功提取：2022-ESG-Report(1)
+2025-04-17 07:34:48,177 - INFO - [📄] 文本输出至：D:\其他\Project5105\data\esg_extract_text_txt\2022-ESG-Report(1)_text_blocks.json
+2025-04-17 07:34:48,216 - INFO - [✅] JSON saved (no sentence output)
+2025-04-17 07:34:48,636 - INFO - [✅] 清洗完成：2022-ESG-Report(1)_text_blocks.json
+2025-04-17 07:34:48,636 - INFO - [📝] 输出路径：D:\其他\Project5105\data\esg_cleaned_text_json\cleaned_2022-ESG-Report(1)_text_blocks.json
+2025-04-17 07:56:57,326 - INFO - PDF 文件导入成功: D:\其他\Project5105\data\esg_reports_pdf\Sanofi_2023_esg.pdf
+2025-04-17 07:56:57,326 - INFO - 导入记录写入 Excel: D:\其他\Project5105\data\esg_reports_pdf\import records.xlsx
+2025-04-17 07:56:57,406 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,407 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,409 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,410 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,411 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,412 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,413 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,413 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,414 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,414 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,415 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,416 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,416 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,417 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,417 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,417 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,418 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,418 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,419 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,419 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,419 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,419 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,421 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,421 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,421 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,422 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,422 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,423 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,424 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,424 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,425 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,425 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,425 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,426 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,428 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,429 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,430 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,431 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,432 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,432 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,433 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,433 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,434 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,434 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,434 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,435 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,435 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,436 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,436 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,436 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,437 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,437 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,437 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,438 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,438 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,439 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,440 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,440 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,441 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,441 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,442 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,442 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,442 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,443 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,444 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,444 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,446 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,447 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,447 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,448 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,448 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,449 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,449 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,450 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,450 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,451 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,452 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,452 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,452 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,453 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,453 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,454 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,454 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,454 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,455 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,456 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,456 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,457 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,458 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,458 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,459 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,461 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,462 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,463 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,463 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,464 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,464 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,465 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,465 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,466 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,466 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,466 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,467 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,467 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,467 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,468 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,468 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,469 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,469 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,469 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,470 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,470 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,471 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,472 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,472 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:56:57,473 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,224 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,224 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,224 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,224 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,224 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,224 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,224 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,224 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,225 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,225 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,225 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,225 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,225 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,225 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,225 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,225 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,225 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,225 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,225 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,225 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,225 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,225 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,225 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,225 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,226 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,226 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,226 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,226 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,226 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,226 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,226 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,226 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,226 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,226 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,226 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,226 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,226 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,227 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,228 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,228 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,228 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,228 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,228 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,228 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,228 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,228 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,228 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,229 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,229 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,230 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,230 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,230 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,230 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,230 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,230 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,230 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,230 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,230 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,230 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,230 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,230 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,230 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,230 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,231 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,231 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,231 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,231 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,231 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,231 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,231 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,231 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,231 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,231 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,232 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,232 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,232 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,232 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,232 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,233 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,233 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,233 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,233 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,233 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,233 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,233 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,233 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,234 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,234 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,234 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,234 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,234 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,234 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,234 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,234 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,235 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,235 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,235 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,235 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,235 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,235 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,235 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,235 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,235 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,235 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,235 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,235 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,235 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,235 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,236 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,236 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,236 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,236 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,236 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,236 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,236 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,236 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,267 - INFO - [✅] 成功提取：Sanofi_2023_esg
+2025-04-17 07:57:18,267 - INFO - [📊] 表格输出至：D:\其他\Project5105\data\esg_extract_table_json\Sanofi_2023_esg_table_blocks.json
+2025-04-17 07:57:18,283 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,284 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,286 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,287 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,287 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,288 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,288 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,289 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,289 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,289 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,290 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,290 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,290 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,291 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,291 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,291 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,292 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,292 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,293 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,293 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,294 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,294 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,294 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,295 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,295 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,296 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,296 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,297 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,297 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,300 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,300 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,301 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,301 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,302 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,302 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,302 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,303 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,303 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,303 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,304 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,304 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,304 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,305 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,305 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,306 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,306 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,307 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,307 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,307 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,308 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,308 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,309 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,310 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,310 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,310 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,311 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,311 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,312 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,312 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,313 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,313 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,314 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,314 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,314 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,316 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,316 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,317 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,318 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,318 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,318 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,319 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,320 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,320 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,320 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,321 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,321 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,321 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,322 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,323 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,323 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,326 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,326 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,327 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,327 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,328 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,328 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,329 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,329 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,329 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,330 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,331 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,331 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,332 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,334 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,335 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,335 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,336 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,336 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,337 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,338 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,338 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,339 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,340 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,340 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,341 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,341 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,341 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,342 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,342 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,343 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,344 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,344 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,345 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,345 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,345 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:18,345 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,203 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,203 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,204 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,204 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,204 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,204 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,204 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,204 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,205 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,205 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,205 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,205 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,205 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,205 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,205 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,205 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,205 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,206 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,206 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,206 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,206 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,206 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,207 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,207 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,207 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,207 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,207 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,207 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,207 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,207 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,207 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,207 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,207 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,207 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,207 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,207 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,207 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,208 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,208 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,208 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,208 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,208 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,208 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,208 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,208 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,208 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,209 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,209 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,209 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,209 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,209 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,209 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,209 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,209 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,209 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,209 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,209 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,209 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,210 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,210 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,210 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,210 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,210 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,210 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,211 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,211 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,211 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,211 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,211 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,212 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,212 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,212 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,212 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,212 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,212 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,212 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,212 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,212 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,212 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,212 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,213 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,213 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,213 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,213 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,213 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,213 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,213 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,213 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,213 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,213 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,213 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,213 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,213 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,213 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,213 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,213 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,214 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,214 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,214 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,214 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,214 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,214 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,214 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,214 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,214 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,214 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,214 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,214 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,214 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,214 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,214 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,214 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,214 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,214 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,214 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:57:33,214 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-17 07:58:03,078 - INFO - PDF 文件导入成功: D:\其他\Project5105\data\esg_reports_pdf\teva_2022_esg.pdf
+2025-04-17 07:58:03,078 - INFO - 导入记录写入 Excel: D:\其他\Project5105\data\esg_reports_pdf\import records.xlsx
+2025-04-17 07:58:19,668 - INFO - [✅] 成功提取：teva_2022_esg
+2025-04-17 07:58:19,668 - INFO - [📊] 表格输出至：D:\其他\Project5105\data\esg_extract_table_json\teva_2022_esg_table_blocks.json
+2025-04-17 07:58:34,926 - INFO - [✅] 成功提取：teva_2022_esg
+2025-04-17 07:58:34,926 - INFO - [📄] 文本输出至：D:\其他\Project5105\data\esg_extract_text_txt\teva_2022_esg_text_blocks.json
+2025-04-17 07:58:34,974 - INFO - [✅] JSON saved (no sentence output)
+2025-04-17 07:58:35,359 - INFO - [✅] 清洗完成：teva_2022_esg_text_blocks.json
+2025-04-17 07:58:35,359 - INFO - [📝] 输出路径：D:\其他\Project5105\data\esg_cleaned_text_json\cleaned_teva_2022_esg_text_blocks.json
+2025-04-17 08:35:44,231 - INFO - PDF 文件导入成功: D:\其他\Project5105\data\esg_reports_pdf\LONZA_2023_esg.pdf
+2025-04-17 08:35:44,232 - INFO - 导入记录写入 Excel: D:\其他\Project5105\data\esg_reports_pdf\import records.xlsx
+2025-04-17 08:35:55,111 - INFO - [✅] 成功提取：LONZA_2023_esg
+2025-04-17 08:35:55,111 - INFO - [📊] 表格输出至：D:\其他\Project5105\data\esg_extract_table_json\LONZA_2023_esg_table_blocks.json
+2025-04-17 08:36:05,815 - INFO - [✅] 成功提取：LONZA_2023_esg
+2025-04-17 08:36:05,815 - INFO - [📄] 文本输出至：D:\其他\Project5105\data\esg_extract_text_txt\LONZA_2023_esg_text_blocks.json
+2025-04-17 08:36:05,890 - INFO - [✅] JSON saved (no sentence output)
+2025-04-17 08:36:06,421 - INFO - [✅] 清洗完成：LONZA_2023_esg_text_blocks.json
+2025-04-17 08:36:06,421 - INFO - [📝] 输出路径：D:\其他\Project5105\data\esg_cleaned_text_json\cleaned_LONZA_2023_esg_text_blocks.json
+2025-04-17 08:36:06,440 - INFO - [Text ] 874 sentences
+2025-04-17 08:36:06,440 - INFO - [Table] 0 sentences
+2025-04-17 08:36:06,472 - INFO - [✅] Merged 874 sentences → D:\其他\Project5105\data\esg_merged\cleaned_LONZA_2023_esg_text_blocks_all.txt
+2025-04-17 09:20:25,329 - INFO - PDF 文件导入成功: D:\其他\Project5105\data\esg_reports_pdf\alcon_2021_esg.pdf
+2025-04-17 09:20:25,330 - INFO - 导入记录写入 Excel: D:\其他\Project5105\data\esg_reports_pdf\import records.xlsx
+2025-04-17 09:20:32,263 - INFO - [✅] 成功提取：alcon_2021_esg
+2025-04-17 09:20:32,263 - INFO - [📊] 表格输出至：D:\其他\Project5105\data\esg_extract_table_json\alcon_2021_esg_table_blocks.json
+2025-04-17 09:20:39,242 - INFO - [✅] 成功提取：alcon_2021_esg
+2025-04-17 09:20:39,243 - INFO - [📄] 文本输出至：D:\其他\Project5105\data\esg_extract_text_txt\alcon_2021_esg_text_blocks.json
+2025-04-17 09:20:39,361 - INFO - [✅] JSON saved (no sentence output)
+2025-04-17 09:20:39,697 - INFO - [✅] 清洗完成：alcon_2021_esg_text_blocks.json
+2025-04-17 09:20:39,697 - INFO - [📝] 输出路径：D:\其他\Project5105\data\esg_cleaned_text_json\cleaned_alcon_2021_esg_text_blocks.json
+2025-04-17 09:20:39,717 - INFO - [Text ] 466 sentences
+2025-04-17 09:20:39,717 - INFO - [Table] 0 sentences
+2025-04-17 09:20:39,745 - INFO - [✅] Merged 464 sentences → D:\其他\Project5105\data\esg_merged_txt\merged_cleaned_alcon_2021_esg_text_blocks.txt
+2025-04-17 09:28:14,135 - INFO - PDF 文件导入成功: D:\其他\Project5105\data\esg_reports_pdf\alcon_2022_esg.pdf
+2025-04-17 09:28:14,135 - INFO - 导入记录写入 Excel: D:\其他\Project5105\data\esg_reports_pdf\import records.xlsx
+2025-04-17 09:28:20,888 - INFO - [✅] 成功提取：alcon_2022_esg
+2025-04-17 09:28:20,888 - INFO - [📊] 表格输出至：D:\其他\Project5105\data\esg_extract_table_json\alcon_2022_esg_table_blocks.json
+2025-04-17 09:28:27,504 - INFO - [✅] 成功提取：alcon_2022_esg
+2025-04-17 09:28:27,504 - INFO - [📄] 文本输出至：D:\其他\Project5105\data\esg_extract_text_txt\alcon_2022_esg_text_blocks.json
+2025-04-17 09:28:27,613 - INFO - [✅] JSON saved (no sentence output)
+2025-04-17 09:28:27,998 - INFO - [✅] 清洗完成：alcon_2022_esg_text_blocks.json
+2025-04-17 09:28:27,998 - INFO - [📝] 输出路径：D:\其他\Project5105\data\esg_cleaned_text_json\cleaned_alcon_2022_esg_text_blocks.json
+2025-04-17 09:28:28,018 - INFO - [Text ] 595 sentences
+2025-04-17 09:28:28,018 - INFO - [Table] 0 sentences
+2025-04-17 09:28:28,019 - INFO - [✅] Merged 586 sentences → D:\其他\Project5105\data\esg_merged_txt\merged_cleaned_alcon_2022_esg_text_blocks.txt
+2025-04-17 17:21:32,390 - INFO - PDF 文件导入成功: D:\其他\Project5105\data\esg_reports_pdf\LONZA_2022_esg.pdf
+2025-04-17 17:21:32,390 - INFO - 导入记录写入 Excel: D:\其他\Project5105\data\esg_reports_pdf\import records.xlsx
+2025-04-17 17:21:41,756 - INFO - [✅] 成功提取：LONZA_2022_esg
+2025-04-17 17:21:41,756 - INFO - [📊] 表格输出至：D:\其他\Project5105\data\esg_extract_table_json\LONZA_2022_esg_table_blocks.json
+2025-04-17 17:21:50,858 - INFO - [✅] 成功提取：LONZA_2022_esg
+2025-04-17 17:21:50,858 - INFO - [📄] 文本输出至：D:\其他\Project5105\data\esg_extract_text_txt\LONZA_2022_esg_text_blocks.json
+2025-04-17 17:21:50,906 - INFO - [✅] JSON saved (no sentence output)
+2025-04-17 17:21:51,306 - INFO - [✅] 清洗完成：LONZA_2022_esg_text_blocks.json
+2025-04-17 17:21:51,306 - INFO - [📝] 输出路径：D:\其他\Project5105\data\esg_cleaned_text_json\cleaned_LONZA_2022_esg_text_blocks.json
+2025-04-17 17:21:51,323 - INFO - [Text ] 764 sentences
+2025-04-17 17:21:51,324 - INFO - [Table] 0 sentences
+2025-04-17 17:21:51,326 - INFO - [✅] Merged 764 sentences → D:\其他\Project5105\data\esg_merged_txt\merged_cleaned_LONZA_2022_esg_text_blocks.txt

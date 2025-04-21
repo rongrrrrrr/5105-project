@@ -1,0 +1,1705 @@
+2025-04-17 10:58:48,984 - INFO - Processing file: labeledcleaned_LONZA_2023_esg_text_blocks_all_filtered.json
+2025-04-17 10:58:53,541 - ERROR - Attempt 1 failed for text 15: 429 Resource has been exhausted (e.g. check quota).
+2025-04-17 10:58:53,541 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:58:53,549 - ERROR - Attempt 1 failed for text 16: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 6
+}
+]
+2025-04-17 10:58:53,549 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:58:53,869 - ERROR - Attempt 1 failed for text 17: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 5
+}
+]
+2025-04-17 10:58:53,869 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:58:54,411 - ERROR - Attempt 1 failed for text 18: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 5
+}
+]
+2025-04-17 10:58:54,412 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:58:55,088 - ERROR - Attempt 1 failed for text 19: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 4
+}
+]
+2025-04-17 10:58:55,088 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:58:56,968 - ERROR - Attempt 2 failed for text 15: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 2
+}
+]
+2025-04-17 10:58:56,975 - ERROR - Attempt 2 failed for text 16: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 2
+}
+]
+2025-04-17 10:58:57,258 - ERROR - Attempt 1 failed for text 20: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 2
+}
+]
+2025-04-17 10:58:57,258 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:58:57,482 - ERROR - Attempt 1 failed for text 21: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 2
+}
+]
+2025-04-17 10:58:57,482 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:58:57,892 - ERROR - Attempt 2 failed for text 18: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 1
+}
+]
+2025-04-17 10:58:57,952 - ERROR - Attempt 2 failed for text 17: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 1
+}
+]
+2025-04-17 10:58:58,266 - ERROR - Attempt 1 failed for text 22: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 1
+}
+]
+2025-04-17 10:58:58,266 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:58:58,451 - ERROR - Attempt 1 failed for text 23: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 1
+}
+]
+2025-04-17 10:58:58,452 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:58:58,504 - ERROR - Attempt 2 failed for text 19: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 1
+}
+]
+2025-04-17 10:58:59,024 - ERROR - Attempt 1 failed for text 24: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+}
+]
+2025-04-17 10:58:59,024 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:00,781 - ERROR - Attempt 2 failed for text 20: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 58
+}
+]
+2025-04-17 10:59:01,073 - ERROR - Attempt 1 failed for text 25: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 58
+}
+]
+2025-04-17 10:59:01,073 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:01,690 - ERROR - Attempt 2 failed for text 22: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 58
+}
+]
+2025-04-17 10:59:01,750 - ERROR - Attempt 2 failed for text 21: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 57
+}
+]
+2025-04-17 10:59:02,011 - ERROR - Attempt 1 failed for text 26: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 57
+}
+]
+2025-04-17 10:59:02,011 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:02,061 - ERROR - Attempt 1 failed for text 27: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 57
+}
+]
+2025-04-17 10:59:02,061 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:02,435 - ERROR - Attempt 2 failed for text 24: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 57
+}
+]
+2025-04-17 10:59:02,641 - ERROR - Attempt 2 failed for text 23: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 57
+}
+]
+2025-04-17 10:59:02,722 - ERROR - Attempt 1 failed for text 28: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 56
+}
+]
+2025-04-17 10:59:02,722 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:02,946 - ERROR - Attempt 1 failed for text 29: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 56
+}
+]
+2025-04-17 10:59:02,946 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:04,487 - ERROR - Attempt 2 failed for text 25: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 55
+}
+]
+2025-04-17 10:59:04,792 - ERROR - Attempt 1 failed for text 30: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 54
+}
+]
+2025-04-17 10:59:04,792 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:05,433 - ERROR - Attempt 2 failed for text 26: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 54
+}
+]
+2025-04-17 10:59:05,745 - ERROR - Attempt 1 failed for text 31: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 53
+}
+]
+2025-04-17 10:59:05,745 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:06,361 - ERROR - Attempt 2 failed for text 29: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 53
+}
+]
+2025-04-17 10:59:06,438 - ERROR - Attempt 2 failed for text 27: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 53
+}
+]
+2025-04-17 10:59:06,445 - ERROR - Attempt 2 failed for text 28: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 53
+}
+]
+2025-04-17 10:59:06,654 - ERROR - Attempt 1 failed for text 32: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 53
+}
+]
+2025-04-17 10:59:06,654 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:06,737 - ERROR - Attempt 1 failed for text 33: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 52
+}
+]
+2025-04-17 10:59:06,737 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:06,945 - ERROR - Attempt 1 failed for text 34: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 52
+}
+]
+2025-04-17 10:59:06,945 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:08,288 - ERROR - Attempt 2 failed for text 30: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 51
+}
+]
+2025-04-17 10:59:08,601 - ERROR - Attempt 1 failed for text 35: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 51
+}
+]
+2025-04-17 10:59:08,601 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:09,247 - ERROR - Attempt 2 failed for text 31: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 50
+}
+]
+2025-04-17 10:59:09,573 - ERROR - Attempt 1 failed for text 36: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 50
+}
+]
+2025-04-17 10:59:09,573 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:10,096 - ERROR - Attempt 2 failed for text 33: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 49
+}
+]
+2025-04-17 10:59:10,459 - ERROR - Attempt 1 failed for text 37: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 49
+}
+]
+2025-04-17 10:59:10,459 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:11,075 - ERROR - Attempt 2 failed for text 32: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 48
+}
+]
+2025-04-17 10:59:11,084 - ERROR - Attempt 2 failed for text 34: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 48
+}
+]
+2025-04-17 10:59:11,376 - ERROR - Attempt 1 failed for text 38: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 48
+}
+]
+2025-04-17 10:59:11,376 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:11,390 - ERROR - Attempt 1 failed for text 39: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 48
+}
+]
+2025-04-17 10:59:11,391 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:12,054 - ERROR - Attempt 2 failed for text 35: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 47
+}
+]
+2025-04-17 10:59:12,373 - ERROR - Attempt 1 failed for text 40: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 47
+}
+]
+2025-04-17 10:59:12,373 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:12,992 - ERROR - Attempt 2 failed for text 36: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 46
+}
+]
+2025-04-17 10:59:13,293 - ERROR - Attempt 1 failed for text 41: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 46
+}
+]
+2025-04-17 10:59:13,293 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:13,885 - ERROR - Attempt 2 failed for text 37: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 45
+}
+]
+2025-04-17 10:59:14,219 - ERROR - Attempt 1 failed for text 42: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 45
+}
+]
+2025-04-17 10:59:14,219 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:14,857 - ERROR - Attempt 2 failed for text 38: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 44
+}
+]
+2025-04-17 10:59:14,866 - ERROR - Attempt 2 failed for text 39: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 44
+}
+]
+2025-04-17 10:59:15,170 - ERROR - Attempt 1 failed for text 43: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 44
+}
+]
+2025-04-17 10:59:15,170 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:15,177 - ERROR - Attempt 1 failed for text 44: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 44
+}
+]
+2025-04-17 10:59:15,177 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:15,824 - ERROR - Attempt 2 failed for text 40: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 43
+}
+]
+2025-04-17 10:59:16,127 - ERROR - Attempt 1 failed for text 45: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 43
+}
+]
+2025-04-17 10:59:16,127 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:16,690 - ERROR - Attempt 2 failed for text 41: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 42
+}
+]
+2025-04-17 10:59:17,024 - ERROR - Attempt 1 failed for text 46: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 42
+}
+]
+2025-04-17 10:59:17,024 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:17,650 - ERROR - Attempt 2 failed for text 42: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 42
+}
+]
+2025-04-17 10:59:17,980 - ERROR - Attempt 1 failed for text 47: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 41
+}
+]
+2025-04-17 10:59:17,980 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:18,614 - ERROR - Attempt 2 failed for text 44: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 41
+}
+]
+2025-04-17 10:59:18,618 - ERROR - Attempt 2 failed for text 43: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 41
+}
+]
+2025-04-17 10:59:18,933 - ERROR - Attempt 1 failed for text 48: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 40
+}
+]
+2025-04-17 10:59:18,933 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:18,940 - ERROR - Attempt 1 failed for text 49: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 40
+}
+]
+2025-04-17 10:59:18,940 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:19,544 - ERROR - Attempt 2 failed for text 45: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 40
+}
+]
+2025-04-17 10:59:19,900 - ERROR - Attempt 1 failed for text 50: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 39
+}
+]
+2025-04-17 10:59:19,901 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:21,424 - ERROR - Attempt 2 failed for text 46: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 38
+}
+]
+2025-04-17 10:59:21,435 - ERROR - Attempt 2 failed for text 47: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 38
+}
+]
+2025-04-17 10:59:21,737 - ERROR - Attempt 1 failed for text 51: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 37
+}
+]
+2025-04-17 10:59:21,738 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:21,746 - ERROR - Attempt 1 failed for text 52: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 37
+}
+]
+2025-04-17 10:59:21,746 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:22,457 - ERROR - Attempt 2 failed for text 48: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 37
+}
+]
+2025-04-17 10:59:22,776 - ERROR - Attempt 1 failed for text 53: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 36
+}
+]
+2025-04-17 10:59:22,777 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:23,314 - ERROR - Attempt 2 failed for text 50: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 36
+}
+]
+2025-04-17 10:59:23,367 - ERROR - Attempt 2 failed for text 49: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 36
+}
+]
+2025-04-17 10:59:23,612 - ERROR - Attempt 1 failed for text 54: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 36
+}
+]
+2025-04-17 10:59:23,612 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:23,669 - ERROR - Attempt 1 failed for text 55: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 36
+}
+]
+2025-04-17 10:59:23,669 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:25,182 - ERROR - Attempt 2 failed for text 52: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 34
+}
+]
+2025-04-17 10:59:25,474 - ERROR - Attempt 1 failed for text 56: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 34
+}
+]
+2025-04-17 10:59:25,474 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:26,176 - ERROR - Attempt 2 failed for text 51: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 33
+}
+]
+2025-04-17 10:59:26,193 - ERROR - Attempt 2 failed for text 53: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 33
+}
+]
+2025-04-17 10:59:26,464 - ERROR - Attempt 1 failed for text 57: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 33
+}
+]
+2025-04-17 10:59:26,464 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:26,494 - ERROR - Attempt 1 failed for text 58: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 33
+}
+]
+2025-04-17 10:59:26,494 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:27,087 - ERROR - Attempt 2 failed for text 55: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 32
+}
+]
+2025-04-17 10:59:27,374 - ERROR - Attempt 1 failed for text 59: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 32
+}
+]
+2025-04-17 10:59:27,374 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:28,057 - ERROR - Attempt 2 failed for text 54: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 31
+}
+]
+2025-04-17 10:59:28,369 - ERROR - Attempt 1 failed for text 60: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 31
+}
+]
+2025-04-17 10:59:28,369 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:28,889 - ERROR - Attempt 2 failed for text 56: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 30
+}
+]
+2025-04-17 10:59:29,189 - ERROR - Attempt 1 failed for text 61: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 30
+}
+]
+2025-04-17 10:59:29,189 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:29,971 - ERROR - Attempt 2 failed for text 58: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 29
+}
+]
+2025-04-17 10:59:30,298 - ERROR - Attempt 1 failed for text 62: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 29
+}
+]
+2025-04-17 10:59:30,298 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:30,785 - ERROR - Attempt 2 failed for text 59: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 28
+}
+]
+2025-04-17 10:59:30,886 - ERROR - Attempt 2 failed for text 57: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 28
+}
+]
+2025-04-17 10:59:31,086 - ERROR - Attempt 1 failed for text 63: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 28
+}
+]
+2025-04-17 10:59:31,086 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:31,173 - ERROR - Attempt 1 failed for text 64: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 28
+}
+]
+2025-04-17 10:59:31,173 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:31,795 - ERROR - Attempt 2 failed for text 60: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 27
+}
+]
+2025-04-17 10:59:32,132 - ERROR - Attempt 1 failed for text 65: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 27
+}
+]
+2025-04-17 10:59:32,132 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:32,605 - ERROR - Attempt 2 failed for text 61: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 27
+}
+]
+2025-04-17 10:59:32,905 - ERROR - Attempt 1 failed for text 66: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 26
+}
+]
+2025-04-17 10:59:32,905 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:33,729 - ERROR - Attempt 2 failed for text 62: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 25
+}
+]
+2025-04-17 10:59:34,049 - ERROR - Attempt 1 failed for text 67: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 25
+}
+]
+2025-04-17 10:59:34,049 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:34,512 - ERROR - Attempt 2 failed for text 64: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 25
+}
+]
+2025-04-17 10:59:34,813 - ERROR - Attempt 1 failed for text 68: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 24
+}
+]
+2025-04-17 10:59:34,813 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:35,498 - ERROR - Attempt 2 failed for text 63: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 24
+}
+]
+2025-04-17 10:59:35,550 - ERROR - Attempt 2 failed for text 65: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 24
+}
+]
+2025-04-17 10:59:35,787 - ERROR - Attempt 1 failed for text 69: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 23
+}
+]
+2025-04-17 10:59:35,787 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:35,852 - ERROR - Attempt 1 failed for text 70: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 23
+}
+]
+2025-04-17 10:59:35,852 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:36,298 - ERROR - Attempt 2 failed for text 66: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 23
+}
+]
+2025-04-17 10:59:36,601 - ERROR - Attempt 1 failed for text 71: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 23
+}
+]
+2025-04-17 10:59:36,602 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:37,444 - ERROR - Attempt 2 failed for text 67: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 22
+}
+]
+2025-04-17 10:59:37,821 - ERROR - Attempt 1 failed for text 72: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 21
+}
+]
+2025-04-17 10:59:37,821 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:39,217 - ERROR - Attempt 2 failed for text 69: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 20
+}
+]
+2025-04-17 10:59:39,228 - ERROR - Attempt 2 failed for text 68: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 20
+}
+]
+2025-04-17 10:59:39,507 - ERROR - Attempt 1 failed for text 73: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 20
+}
+]
+2025-04-17 10:59:39,507 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:39,514 - ERROR - Attempt 1 failed for text 74: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 20
+}
+]
+2025-04-17 10:59:39,514 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:40,002 - ERROR - Attempt 2 failed for text 71: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 19
+}
+]
+2025-04-17 10:59:40,094 - ERROR - Attempt 2 failed for text 70: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 19
+}
+]
+2025-04-17 10:59:40,317 - ERROR - Attempt 1 failed for text 75: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 19
+}
+]
+2025-04-17 10:59:40,318 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:40,399 - ERROR - Attempt 1 failed for text 76: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 19
+}
+]
+2025-04-17 10:59:40,401 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:41,258 - ERROR - Attempt 2 failed for text 72: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 18
+}
+]
+2025-04-17 10:59:41,568 - ERROR - Attempt 1 failed for text 77: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 18
+}
+]
+2025-04-17 10:59:41,568 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:42,929 - ERROR - Attempt 2 failed for text 73: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 16
+}
+]
+2025-04-17 10:59:42,936 - ERROR - Attempt 2 failed for text 74: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 16
+}
+]
+2025-04-17 10:59:43,251 - ERROR - Attempt 1 failed for text 78: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 16
+}
+]
+2025-04-17 10:59:43,251 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:43,261 - ERROR - Attempt 1 failed for text 79: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 16
+}
+]
+2025-04-17 10:59:43,261 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:43,765 - ERROR - Attempt 2 failed for text 75: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 15
+}
+]
+2025-04-17 10:59:44,128 - ERROR - Attempt 1 failed for text 80: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 15
+}
+]
+2025-04-17 10:59:44,128 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:44,757 - ERROR - Attempt 2 failed for text 76: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 14
+}
+]
+2025-04-17 10:59:45,094 - ERROR - Attempt 1 failed for text 81: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 14
+}
+]
+2025-04-17 10:59:45,094 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:45,943 - ERROR - Attempt 2 failed for text 77: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 13
+}
+]
+2025-04-17 10:59:46,266 - ERROR - Attempt 1 failed for text 82: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 13
+}
+]
+2025-04-17 10:59:46,266 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:46,676 - ERROR - Attempt 2 failed for text 79: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 13
+}
+]
+2025-04-17 10:59:46,683 - ERROR - Attempt 2 failed for text 78: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 12
+}
+]
+2025-04-17 10:59:46,976 - ERROR - Attempt 1 failed for text 83: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 12
+}
+]
+2025-04-17 10:59:46,977 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:46,984 - ERROR - Attempt 1 failed for text 84: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 12
+}
+]
+2025-04-17 10:59:46,984 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:47,541 - ERROR - Attempt 2 failed for text 80: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 12
+}
+]
+2025-04-17 10:59:47,885 - ERROR - Attempt 1 failed for text 85: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 11
+}
+]
+2025-04-17 10:59:47,885 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:54,017 - ERROR - Attempt 1 failed for text 96: 429 Resource has been exhausted (e.g. check quota).
+2025-04-17 10:59:54,017 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:54,094 - ERROR - Attempt 1 failed for text 97: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 5
+}
+]
+2025-04-17 10:59:54,095 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:54,716 - ERROR - Attempt 1 failed for text 98: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 4
+}
+]
+2025-04-17 10:59:54,716 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:54,839 - ERROR - Attempt 1 failed for text 99: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 4
+}
+]
+2025-04-17 10:59:54,839 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:55,252 - ERROR - Attempt 1 failed for text 100: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 4
+}
+]
+2025-04-17 10:59:55,253 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:57,461 - ERROR - Attempt 2 failed for text 96: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 2
+}
+]
+2025-04-17 10:59:57,784 - ERROR - Attempt 1 failed for text 101: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 1
+}
+]
+2025-04-17 10:59:57,784 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:58,252 - ERROR - Attempt 2 failed for text 99: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 1
+}
+]
+2025-04-17 10:59:58,455 - ERROR - Attempt 2 failed for text 97: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 1
+}
+]
+2025-04-17 10:59:58,463 - ERROR - Attempt 2 failed for text 98: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 1
+}
+]
+2025-04-17 10:59:58,557 - ERROR - Attempt 1 failed for text 102: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 1
+}
+]
+2025-04-17 10:59:58,557 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:58,755 - ERROR - Attempt 1 failed for text 103: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+}
+]
+2025-04-17 10:59:58,755 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:58,762 - ERROR - Attempt 1 failed for text 104: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+}
+]
+2025-04-17 10:59:58,762 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 10:59:59,253 - ERROR - Attempt 2 failed for text 100: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+}
+]
+2025-04-17 10:59:59,572 - ERROR - Attempt 1 failed for text 105: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+}
+]
+2025-04-17 10:59:59,572 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 11:00:01,218 - ERROR - Attempt 2 failed for text 101: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 58
+}
+]
+2025-04-17 11:00:01,632 - ERROR - Attempt 1 failed for text 106: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 58
+}
+]
+2025-04-17 11:00:01,632 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 11:00:02,183 - ERROR - Attempt 2 failed for text 104: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 57
+}
+]
+2025-04-17 11:00:02,480 - ERROR - Attempt 1 failed for text 107: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 57
+}
+]
+2025-04-17 11:00:02,480 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 11:00:02,515 - ERROR - Attempt 2 failed for text 103: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 57
+}
+]
+2025-04-17 11:00:02,614 - ERROR - Attempt 2 failed for text 102: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 57
+}
+]
+2025-04-17 11:00:02,816 - ERROR - Attempt 1 failed for text 108: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 56
+}
+]
+2025-04-17 11:00:02,816 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 11:00:02,908 - ERROR - Attempt 1 failed for text 109: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 56
+}
+]
+2025-04-17 11:00:02,908 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 11:00:02,948 - ERROR - Attempt 2 failed for text 105: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 56
+}
+]
+2025-04-17 11:00:03,245 - ERROR - Attempt 1 failed for text 110: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 56
+}
+]
+2025-04-17 11:00:03,246 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
+2025-04-17 11:00:05,039 - ERROR - Attempt 2 failed for text 106: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 54
+}
+]
+2025-04-17 11:00:05,334 - ERROR - Attempt 1 failed for text 111: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 54
+}
+]
+2025-04-17 11:00:05,334 - INFO - Rotating API key to: AIzaSyCnIU_b1USq5rjwEdqbPjUfhXSqWpWsCqg
